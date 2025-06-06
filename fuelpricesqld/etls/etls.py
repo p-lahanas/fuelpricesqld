@@ -1,5 +1,4 @@
 import logging
-import os
 
 import polars as pl
 from sqlalchemy.orm import Session
